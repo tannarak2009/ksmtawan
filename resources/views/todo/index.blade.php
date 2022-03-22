@@ -14,7 +14,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1>MyList</h1>
+                <h1>My List</h1>
 
                 <div class="card">
                     <div class="card-body">
